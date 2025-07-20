@@ -1,0 +1,3 @@
+GitHub is an open source platform where an end user can Access the Repository from remote location.
+Have fun using GitHub
+See you Later
