@@ -1,2 +1,2 @@
 This is the testing file on how to push and empty content inside a file and clarify the doubts regarding push
-
+This is the another trail for git push
